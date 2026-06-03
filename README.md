@@ -28,27 +28,27 @@ Projeto backend desenvolvido utilizando Node.js, Express e MongoDB com estrutura
 
 Instalar dependencias:
 
-```bash
+
 npm install
-```
+
 
 Rodar servidor:
 
-```bash
+
 node app.js
-```
+
 
 Servidor roda em:
 
-```txt
+
 http://localhost:3000
-```
+
 
 ## Rotas principais
 
-- /usuarios
-- /videos
-- /ideias
+ /usuarios
+ /videos
+ /ideias
 
 ## Testes realizados
 
